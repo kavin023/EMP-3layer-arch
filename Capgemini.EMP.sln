@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Capgemini.EMP.PL", "Capgemini.EMP.PL\Capgemini.EMP.PL.csproj", "{1E9FC656-F12C-4EE2-8A10-8C6E166B0ED5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Capgemini.EMS.BussinessLayer", "Capgemini.EMS.BussinessLayer\Capgemini.EMS.BussinessLayer.csproj", "{425556EE-C43C-49DF-AA6F-3411A72AEB97}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Capgemini.EMS.Entities", "Capgemini.EMS.Entities\Capgemini.EMS.Entities.csproj", "{59EC5FDA-A57B-4701-9E9E-B3077A77486F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Capgemini.EMS.Exceptions", "Capgemini.EMS.Exceptions\Capgemini.EMS.Exceptions.csproj", "{53F6557A-E42F-4EAE-A882-5D8ED6465AF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capgemini.EMS.DateAccessLayer", "Capgemini.EMS.DateAccessLayer\Capgemini.EMS.DateAccessLayer.csproj", "{44A1F310-46B5-42DA-AF87-A1A780859D71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E9FC656-F12C-4EE2-8A10-8C6E166B0ED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E9FC656-F12C-4EE2-8A10-8C6E166B0ED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E9FC656-F12C-4EE2-8A10-8C6E166B0ED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E9FC656-F12C-4EE2-8A10-8C6E166B0ED5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{425556EE-C43C-49DF-AA6F-3411A72AEB97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{425556EE-C43C-49DF-AA6F-3411A72AEB97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{425556EE-C43C-49DF-AA6F-3411A72AEB97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{425556EE-C43C-49DF-AA6F-3411A72AEB97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59EC5FDA-A57B-4701-9E9E-B3077A77486F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59EC5FDA-A57B-4701-9E9E-B3077A77486F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59EC5FDA-A57B-4701-9E9E-B3077A77486F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59EC5FDA-A57B-4701-9E9E-B3077A77486F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53F6557A-E42F-4EAE-A882-5D8ED6465AF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53F6557A-E42F-4EAE-A882-5D8ED6465AF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53F6557A-E42F-4EAE-A882-5D8ED6465AF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53F6557A-E42F-4EAE-A882-5D8ED6465AF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44A1F310-46B5-42DA-AF87-A1A780859D71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44A1F310-46B5-42DA-AF87-A1A780859D71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44A1F310-46B5-42DA-AF87-A1A780859D71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44A1F310-46B5-42DA-AF87-A1A780859D71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDEE739C-6694-4FE1-8EC5-BE9B8D7F2A57}
+	EndGlobalSection
+EndGlobal
